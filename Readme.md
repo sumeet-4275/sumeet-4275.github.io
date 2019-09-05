@@ -1,6 +1,3 @@
-<img src="photo-1502367448277-82e29b176948.jpeg">
-# SUMEET PACHAURI
-## Indian Institute of Information Technology Bhopal
 ## Information Technology
 
 Keen Learner, Competitive Programmer
