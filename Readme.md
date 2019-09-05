@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## SUMEET PACHAURI
+# Indian Institute of Information Technology Bhopal
 
 You can use the [editor on GitHub](https://github.com/sumeet-4275/sumeet-4275.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
