@@ -1,4 +1,4 @@
-!.[Image].(https://scontent-bom1-2.xx.fbcdn.net/v/t1.0-9/38600431_148537772695961_6653208545447641088_n.jpg?_nc_cat=109&_nc_oc=AQlERyT9oFLPOIA5OO6QRhpEMdvj7THyXDWBQ_EXAG1MVDZyXyQfLCMIlqdQC5bNGnE&_nc_ht=scontent-bom1-2.xx&oh=ddf68862745402236e95669e1706fa44&oe=5DFC93B5)
+!.[Image].(photo-1502367448277-82e29b176948.jpeg)
 # SUMEET PACHAURI
 ## Indian Institute of Information Technology Bhopal
 ### Information Technology
