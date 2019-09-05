@@ -1,11 +1,16 @@
 <img src="photo-1502367448277-82e29b176948.jpeg">
 # SUMEET PACHAURI
 ## Indian Institute of Information Technology Bhopal
-### Information Technology
+## Information Technology
 
-You can use the [editor on GitHub](https://github.com/sumeet-4275/sumeet-4275.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Keen Learner, Competitive Programmer
+Languages : C++, C, Java, Python
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Attended Codechef Competitive Programming Workshop covering various topics of Data Structures and Algorithms.
+
+Certification ID:
+
+Looking to take up internships and projects
 
 ### Markdown
 
