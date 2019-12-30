@@ -1,3 +1,2 @@
-# sumeet-4275.github.io
-TEST ATTEMPT
-Data Removed
+Sumeet Pachauri
+Indian Institute of Information Technology, Bhopal
