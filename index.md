@@ -1,10 +1,6 @@
 # Sumeet Pachauri
 ### Indian Institute of Information Technology Bhopal
 
-## Objective
-
-To enhance my coding skills continuously and land on good internships where I can contribute to the organisation through my efforts and gain more industry knowledge.
-
 
 ## PROFILE SUMMARY	
 
