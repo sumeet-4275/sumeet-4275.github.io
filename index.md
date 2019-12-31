@@ -12,26 +12,38 @@ A learner in the field of Information Technology, with a proficient knowledge of
 
 ## Education
 
-- Bachelor of Technology, IT (2018 - 2022) - Pursuing
-  Indian Institute of Information Technology Bhopal
+- Bachelor of Technology, IT (2018 - 2022) - Pursuing   
+  Indian Institute of Information Technology Bhopal  
   CGPA - 8.36/10
 
-- XII (Senior Secondary), Science	
-  CBSE Board (DAV Public School, Vasant Kunj)
+- XII (Senior Secondary), Science	  
+  CBSE Board (DAV Public School, Vasant Kunj)  
   Percentage: 89.60%, Year of Completion: 2018
 
-- X (Secondary)
-  CBSE Board (S. D. Adarsh Vidyalaya, Gurugram)
+- X (Secondary)  
+  CBSE Board (S. D. Adarsh Vidyalaya, Gurugram)  
   CGPA: 10.00/10.00, Year of Completion: 2016
+
+## Internships and Trainings 
+
+**Internships**
+
+- **Winter Research Intern (Center for Cognitive Computing)**  
+  Indian Institute of Information Technology, Allahabad  
+  Machine Learning Model  
   
-  
-You can use the [editor on GitHub](https://github.com/sumeet-4275/sumeet-4275.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- **ISP-11**  
+  Internshala Student Partner Program  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Workshops and Trainings**  
 
-### Markdown
+- **International Conference on Intelligent Human Computer Interaction**  
+  Student Co-ordinator cum Member  
+- **Codechef CP-Basics Workshop**  
+- **Atal Tinkering Lab(AIM- NITI Aayog, Govt of India)**  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
+
 
 ```markdown
 Syntax highlighted code block
