@@ -45,8 +45,14 @@ development, Content Writing and student interaction.
 - **IHCI 2019**  
 Volunteered as Program Co-Ordinator and Participated in the 11 th
 International conference on Intelligent Human Computer Interaction
-- **Workshop on Cognitive Computing**  
+- **Workshop on Cognitive Computing**   
 Participant at 2 nd edition of workshop on Cognitive Computing
-- **CodeChef**
+- **CodeChef**  
 Attended CC-CP workshop organized by CodeChef in June 2019
 focusing on Algorithmic skills and discussing Data Structures in depth.
+
+**Co-curricular Activities**  
+
+Representing IIIT-Bhopal’s Basketball team at Inter IIIT sports from past 2
+years, passion of public speaking, declamation, debates and other
+oratorical activities.
