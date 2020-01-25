@@ -42,11 +42,15 @@ development, Content Writing and student interaction.
 **Workshops and Trainings**  
   
 - **Atal Tinkering Lab(AIM- NITI Aayog, Govt of India)**  
+Worked at Atal Tinkering Lab of DAV-VK and got the opportunity to be a part of this excellent opportunity, where I programmed the Arduino Board to work for a Robot under able guidance of mentors from IIT Kharagpur under the scheme of NITI Aayog, Government of India
+
 - **IHCI 2019**  
 Volunteered as Program Co-Ordinator and Participated in the 11 th
 International conference on Intelligent Human Computer Interaction
+
 - **Workshop on Cognitive Computing**   
 Participant at 2 nd edition of workshop on Cognitive Computing
+
 - **CodeChef**  
 Attended CC-CP workshop organized by CodeChef in June 2019
 focusing on Algorithmic skills and discussing Data Structures in depth.
