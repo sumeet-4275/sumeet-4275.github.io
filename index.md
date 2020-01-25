@@ -55,8 +55,9 @@ Participant at 2 nd edition of workshop on Cognitive Computing
 Attended CC-CP workshop organized by CodeChef in June 2019
 focusing on Algorithmic skills and discussing Data Structures in depth.
 
-**Co-curricular Activities**  
+## Co-curricular Activities  
 
-Representing IIIT-Bhopal’s Basketball team at Inter IIIT sports from past 2
-years, passion of public speaking, declamation, debates and other
+- Representing IIIT-Bhopal’s Basketball team at Inter IIIT sports from past 2
+years  
+- Passion of public speaking, declamation, debates and other
 oratorical activities.
