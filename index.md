@@ -4,7 +4,13 @@
 
 ## PROFILE SUMMARY	
 
-A learner in the field of Information Technology, with a proficient knowledge of C, C++ and HTML. A beginner in Java, Python and Linux tools with particular interest in the field of Data Science, looking to take up projects in various fields of IT. 
+A learner in the field of IT, with a
+proficient knowledge of C, C++ and
+DSA. Actively associated with
+competitive programming, keen
+problem solver with almost 200
+problem submissions on various
+competitive programming platforms.
 
 ## Education
 
