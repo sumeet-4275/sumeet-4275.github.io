@@ -7,7 +7,7 @@
 A learner in the field of IT, with a
 proficient knowledge of C, C++ and
 DSA. Actively associated with
-competitive programming, keen
+competitive programming Codechef rated 1895, keen
 problem solver with almost 200
 problem submissions on various
 competitive programming platforms.
